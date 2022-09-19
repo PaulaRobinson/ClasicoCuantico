@@ -1,10 +1,10 @@
-Simulacion de lo clasico a lo cuantico 
-Autora= MariaPaula Robinson Hidalgo
-El programa se realizo con python
+Simulacion de lo clasico a lo cuantico.
+-Autora= MariaPaula Robinson Hidalgo.
+-El programa se realizo con python
 
-Programa basado en los retos de programacion del capitulo 3 de Quantum Computing for Computer Scientists.
+-Programa basado en los retos de programacion del capitulo 3 de Quantum Computing for Computer Scientists.
 
-Instrucciones de uso: Este programa esta hecho para un publico que ingresara todos los datos como se le indica el programa, en caso contrario no funcionara debidamente.
+-Instrucciones de uso: Este programa esta hecho para un publico que ingresara todos los datos como se le indica el programa, en caso contrario no funcionara debidamente.
 
 -El menú se abre en su consola, elija el programa deseado.
 
